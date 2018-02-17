@@ -1,0 +1,1 @@
+Simple Chrome extension that adds a context menu for moving tabs between windows.
